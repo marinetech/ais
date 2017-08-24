@@ -1,0 +1,1922 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Vessel details for: BOEI 2 (Local Vessel) - MMSI 244010235, Call Sign BOEI2 Registered in Netherlands  | AIS Marine Traffic</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Vessel details: BOEI 2. Discover the vessel's basic Details, including the vessel IMO / vessel MMSI and vessel Call Sign. Type: Local Vessel Vessel, Registered in Netherlands. Find dead-weight-tonnage, Gross Tonnage and the Year of Build vessel details. Vessel details about BOEI 2 include Current Vessel Position, Voyage information, and photos. BOEI 2 Particulars MMSI 244010235, Call Sign BOEI2">
+<meta name="keywords" content="BOEI 2,Netherlands,Local Vessel,Ship,Vessel,Boat,AIS,VTS,Schedule,Real Time Map,Live Map">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700&subset=latin,greek,vietnamese,cyrillic" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+	<link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+	<link rel="stylesheet" type="text/css" href="//cdn.marinetraffic.com/css/css-bootstrap-3.30.51.css" />
+	<link rel="stylesheet" type="text/css" href="//cdn.marinetraffic.com/css/css-data-detail-3.30.51.51c74e.css" />
+<script type="text/javascript" src="https://unpkg.com/es6-promise@4.0.5/dist/es6-promise.min.js"></script><script type="text/javascript" src="//cdn.marinetraffic.com/js/js-msr-3.30.51.js"></script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script type="text/javascript" src="//cdn.districtm.ca/merge/merge.v4.2.104573.js"></script><script type='text/javascript'>
+	
+	// Po.st
+	var pwidget_config = {trackAddressBar: false, shareQuote: false, defaults: {afterShare: false}, publisherKey: "e4v38ujmf4aait6rt7a5"};
+	(function (){
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://i') + '.po.st/share/script/post-widget.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		var i = new Image();
+		i.src = "//rs.gwallet.com/r1/pixel/x30429" + "r" + Math.round(1E7 * Math.random());
+	})();
+	//end of Po.st
+
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function ()
+	{
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+
+		var src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt_mobile.js';
+		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+
+	window.adsEnabled = true;
+
+	googletag.cmd.push(function ()
+	{
+		v_details_160x600_atf = googletag.defineSlot('/15222045/v_details_160x600_atf', [160, 600], 'div-gpt-ad-1444636438315-30').addService(googletag.pubads());
+v_details_160x600_btf = googletag.defineSlot('/15222045/v_details_160x600_btf', [160, 600], 'div-gpt-ad-1444636438315-31').addService(googletag.pubads());
+v_details_300x250_btf = googletag.defineSlot('/15222045/v_details_300x250_btf', [300, 250], 'div-gpt-ad-1444636438315-32').addService(googletag.pubads());
+var mapping_vdetails = googletag.sizeMapping().
+			  addSize([0, 0], [0, 0]).
+			  addSize([992, 200], [728, 90]).
+			  addSize([1200, 200], [970, 90]).
+			  build();
+			  v_details_728x90_atf = v_details_728x90_atf = googletag.defineSlot('/15222045/v_details_728x90_atf', [[728, 90], [970, 90]], 'div-gpt-ad-1444636438315-33').defineSizeMapping(mapping_vdetails).addService(googletag.pubads());
+v_details_300x600 = googletag.defineSlot('/15222045/v_details_300x600', [300, 600], 'div-gpt-ad-1467374886254-0').addService(googletag.pubads());
+p_v_details_300x250 = googletag.defineSlot('/15222045/p_v_details_300x250', [300, 250], 'div-gpt-ad-1468750463930-0').addService(googletag.pubads());
+mt_atf_300x160 = googletag.defineSlot('/15222045/300x160_house_banner', [300, 160], 'div-gpt-ad-1466167934699-0').addService(googletag.pubads());
+mt_atf_160x160 = googletag.defineSlot('/15222045/mt_160x160_atf', [160, 160], 'div-gpt-ad-1381773599378-0').addService(googletag.pubads());
+
+	});
+
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+		(adsbygoogle = window.adsbygoogle || []).push(
+			{ google_ad_client: "ca-pub-1312707765089516", enable_page_level_ads: true }
+		);
+	}
+		window.mtAppVersion = '3.30.51.51c74e';
+    
+</script>
+
+<script>
+	// Please use Strings, Numbers, or Bools for value types.
+	window.pendo_options = {
+		apiKey: '915388fa-afe0-454c-6270-7a41b245e92e',
+
+		// If you load your user info asynchronously, set this to true
+		usePendoAgentAPI: false,
+
+		visitor: {
+																																																	},
+
+	account: {
+		// You can add any additional account level key-values here,
+		// as long as it's not one of the above reserved names.
+	}
+	}
+	;
+	(function ()
+	{
+		var script = document.createElement('script');
+		script.type = 'text/javascript';
+		script.async = true;
+		script.src = ('https:' === document.location.protocol ? 'https://' : 'http://' ) + 'd3accju1t3mngt.cloudfront.net/js/pa.min.js';
+		var firstScript = document.getElementsByTagName('script')[0];
+		firstScript.parentNode.insertBefore(script, firstScript);
+	})();
+
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=497567230402159&ev=PageView&noscript=1"/></noscript>
+<link rel="alternate" hreflang="en" href="http://www.marinetraffic.com/en/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="ar" href="http://www.marinetraffic.com/ar/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="hy" href="http://www.marinetraffic.com/hy/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="bg" href="http://www.marinetraffic.com/bg/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="zh" href="http://www.marinetraffic.com/zh/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="cs" href="http://www.marinetraffic.com/cs/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="da" href="http://www.marinetraffic.com/da/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="de" href="http://www.marinetraffic.com/de/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="el" href="http://www.marinetraffic.com/el/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="et" href="http://www.marinetraffic.com/et/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="es" href="http://www.marinetraffic.com/es/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="fa" href="http://www.marinetraffic.com/fa/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="fr" href="http://www.marinetraffic.com/fr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="ka" href="http://www.marinetraffic.com/ka/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="he" href="http://www.marinetraffic.com/he/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="hi" href="http://www.marinetraffic.com/in/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="hr" href="http://www.marinetraffic.com/hr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="is" href="http://www.marinetraffic.com/is/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="it" href="http://www.marinetraffic.com/it/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="ja" href="http://www.marinetraffic.com/ja/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="lv" href="http://www.marinetraffic.com/lv/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="nl" href="http://www.marinetraffic.com/nl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="no" href="http://www.marinetraffic.com/no/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="pl" href="http://www.marinetraffic.com/pl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="pt" href="http://www.marinetraffic.com/pt/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="ro" href="http://www.marinetraffic.com/ro/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="ru" href="http://www.marinetraffic.com/ru/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="sr" href="http://www.marinetraffic.com/sr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="sl" href="http://www.marinetraffic.com/sl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="fi" href="http://www.marinetraffic.com/fi/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="sv" href="http://www.marinetraffic.com/sv/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="th" href="http://www.marinetraffic.com/th/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="tr" href="http://www.marinetraffic.com/tr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="uk" href="http://www.marinetraffic.com/uk/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+<link rel="alternate" hreflang="x-default" href="http://www.marinetraffic.com/en/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202" />
+
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33656897-1', 'marinetraffic.com');
+  ga('set', 'dimension1', 'Guest');
+  
+  <!--START DISTIL Force Identification Referrer -->
+  try {
+		if (typeof sessionStorage !== 'undefined') {
+			ga('set', 'referrer', (sessionStorage.getItem('distil_referrer') || document.referrer));
+			sessionStorage.removeItem('distil_referrer');
+		}
+	} catch (e) {
+	}
+  <!--END DISTIL Force Identification Referrer -->
+  
+  ga('send', 'pageview');
+
+</script><link rel="apple-touch-icon" href="/img/ios/mt_60.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/img/ios/mt_76.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/img/ios/mt_120.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/img/ios/mt_152.png" />
+<script type="text/javascript">
+	window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);
+	;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"5d2b4c5212",applicationID:"40819343",sa:1}
+</script><link rel="canonical" href="http://www.marinetraffic.com/en/ais/details/ships/shipid:1336912/mmsi:244010235/imo:0/vessel:BOEI_2" />
+
+<meta property="og:title" content="Vessel details for: BOEI 2 (Local Vessel) - MMSI 244010235, Call Sign BOEI2 Registered in Netherlands  | AIS Marine Traffic" />
+<meta property="og:url" content="http://www.marinetraffic.com/en/ais/details/ships/shipid:1336912/mmsi:244010235/imo:0/vessel:BOEI_2" />
+<meta property="og:description" content="Vessel details: BOEI 2. Discover the vessel's basic Details, including the vessel IMO / vessel MMSI and vessel Call Sign. Type: Local Vessel Vessel, Registered in Netherlands. Find dead-weight-tonnage, Gross Tonnage and the Year of Build vessel details. Vessel details about BOEI 2 include Current Vessel Position, Voyage information, and photos. BOEI 2 Particulars MMSI 244010235, Call Sign BOEI2" />
+<meta property="og:image" content="//photos.marinetraffic.com/ais/showphoto.aspx?mmsi=244010235&size=" />
+<meta property="og:site_name" content="MarineTraffic.com" />
+
+</head>
+<body data-context="data-detail" data-context-type="ships" data-ajax-lang="en" data-country="" data-currency="">
+
+<header role="banner">
+	
+			<nav class="navbar navbar-default navbar-fixed-top bg-navbar" role="navigation">
+	<div class="container-fluid">
+			<div class="row">
+			<div style="padding-left: 2px; padding-right: 2px" class="col-sm-2">
+
+				<div class="navbar-header full-width">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mt-menu-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="block-elem full-width vertical-aligned text-left no-underline" style="height: 44px" href='/'>
+						<img src="//cdn.marinetraffic.com/img/logo-final.png" style="max-width: 200px; width: 100%; max-height: 100%" class="img-responsive" alt="" />					</a>
+
+			</div>
+			</div>
+
+		<div class="collapse navbar-collapse no-border no-shadow" id="mt-menu-collapse">
+			<div class="col-sm-4 col-lg-3 navbar-right">
+			<!---->
+<!--			-->				<div class="table-cell cell-full collapse-768 text-right">
+					<div class="searchform-wrapper">
+						<form action="/en/ais/index/search/all" id="SEARCHDisplayForm" class="navbar-form navbar-input-group vertical-offset-10" role="search" method="get" accept-charset="utf-8">
+							<div class="input-group mt-input-group">
+									<span class="input-group-btn">
+										<button class="btn" type="submit"><i class="fa fa-search"></i></button>
+									</span>
+								<input name="keyword" class="form-control top_menu_search ui-autocomplete-input" placeholder="Vessel" value="" onclick="this.value=&quot;&quot;;" onfocus="this.select()" onblur="this.value=!this.value?&quot;Vessel/Port&quot;:this.value;" type="text" id="SEARCHKeyword" autocomplete="off">
+								<span class="input-group-btn tangent-loader">
+										<a href="#" class="btn btn-default ladda-button" data-style="slide-right" data-spinner-color="#FFFFFF">
+											<span class="ladda-label">&nbsp;</span>
+										</a>
+									</span>
+							</div><!-- /input-group -->
+						</form>
+					</div>
+				</div>
+				<div class="table-cell collapse-768">
+					<ul class="nav navbar-nav">
+						<li class="dropdown dropdown-arrow dropdown-arrow-default-dark notifications">
+							<a href="#" class="no-icon text-left" id="myannouncements" data-toggle="dropdown"><div class="badge notif-badge"></div><i class="flaticon-small36 font-120"></i></a>							<ul class="dropdown-menu no-padding panel panel-default panel-dark noclose">
+								<li class="notif-heading panel-heading text-center no-radius">
+									<div class="notif-heading-content"></div>
+									<div class="no-notif">
+										No new messages									</div>
+								</li>
+								<div class="clearfix"></div>
+								<div id="announcelist" class="text-left panel-body no-padding"></div>
+							</ul>
+						</li>
+						<div id="user_menu_holder" class="loader-circle-small"></div>
+					</ul>
+				</div>
+			
+			</div>
+
+							<hr class="bg-primary bg-darker special vertical-offset-5 visible-xs"/>
+				<div class="col-sm-6 col-lg-7 navbar-left">
+				<ul class="nav navbar-nav text-left">
+
+						<li >
+							<a href="http://www.marinetraffic.com/" class="top_map"><i class="flaticon-world8 font-110"></i> <span>Live Map</span></a>						</li>
+
+												<li class="active dropdown">
+							<a href="http://www.marinetraffic.com/en/ais/index/ships/all" class="top_vessels" data-toggle="dropdown"><i class="flaticon-ocean3 font-110"></i> <span>Vessels</span><b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/ships/all" class="top_vessels parent">All Vessels</a>								</li>
+
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/ships/range" class="top_vessels parent">Vessels in Range</a>								</li>
+
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/fleet/all" class="top_vessels parent login_gate" data-login-error="You need to Sign in to use this feature">My Fleets</a>								</li>
+
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/ships/nearme" class="top_vessels parent">Vessels near me</a>								</li>
+							</ul>
+
+						</li>
+
+
+												<li class="dropdown">
+							<a href="#" class="top_ports" data-toggle="dropdown"><i class="flaticon-anchor5 font-110"></i> <span>Ports</span><b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/ports/all" class="top_ports parent">Search Ports</a>								</li>
+
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/port_moves/all" class="top_ports parent">Arrivals & Departures</a>								</li>
+
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/eta/all" class="top_ports parent">Expected Arrivals</a>								</li>
+
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/ports/nearme" class="top_ports parent">Ports near me</a>								</li>
+							</ul>
+
+						</li>
+
+						<li >
+							<a href="http://www.marinetraffic.com/en/photos/of/ships" class="top_photos"><i class="fa fa-camera font-110"></i> <span>Photos</span></a>						</li>
+
+						<li class="dropdown ">
+							<a href="#" class="top_participate" data-toggle="dropdown"><i class="flaticon-turn font-110"></i> <span>Participate</span><b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/expand-coverage" class="top_map parent">Cover your Area</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/stations/all" class="top_map parent">Receiving Stations</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais/index/photographers" class="top_map parent">Photographers</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/photos/upload" class="top_map parent">Photo Upload</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/voyage-planner" class="top_map parent">Voyage Planner</a>								</li>
+																	<li>
+										<a href="http://www.marinetraffic.com/en/p/marinetraffic-research" class="top_map parent">Research</a>									</li>
+																<li>
+									<a href="http://www.marinetraffic.com/en/p/marine-traffic-social" class="top_map parent">Social Media</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/quick-start-guide" class="top_map parent">Quick Start Guide</a>								</li>
+							</ul>
+						</li>
+						<li class="dropdown ">
+							<a href="#" class="top_services" data-toggle="dropdown"><i class="flaticon-machine2 font-110"></i> <span>Services</span><b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/services" class="top_map parent">Services Overview</a>								</li>
+								<li class="divider"></li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/plans" data-mixpanel="plans" class="top_map parent mixpanel">Plans & Pricing</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/ais-api-services" data-mixpanel="api" class="top_map parent mixpanel">API for AIS Data</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/ais-historical-data" class="top_map parent">Historical AIS data</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/satellite-ais" class="top_map parent">Satellite AIS</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/mobile" class="top_map parent">Mobile Apps</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/embed-map" class="top_map parent">Embed map</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/my-notifications" class="top_map parent">Notifications</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/p/marine-advertising" class="top_map parent">Advertise with us</a>								</li>
+								<li>
+									<a href="http://www.marinetraffic.com/en/maritime-companies" class="top_map parent">Business Directory</a>								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div><!-- navbar-collapse -->
+			</div>
+	</div><!-- container-fluid  -->
+</nav><!-- navbar -->
+
+</header>
+
+<main role="main">
+	<div class="container-fluid has-ad-space detail-page">
+		<div class="fluidwidth">
+			<div style="overflow: hidden">
+				<div class="alert alert-info text-left browser-outdated" style="margin: 10px auto; max-width: 560px;">
+	<button type="button" class="close" data-dismiss="alert">
+		<span aria-hidden="true">&times;</span>
+		<span class="sr-only">Close</span>
+	</button>
+	<div class="table-cell align-top">
+		<span class="fa-stack font-200" style="margin-right: 10px">
+			<i class="fa fa-square fa-stack-2x"></i>
+			<i style="color: #CDE7F4" class="fa fa-exclamation-triangle fa-stack-1x"></i>
+		</span>
+	</div>
+	<noindex><div class="table-cell align-top full-width">
+		<strong class="font-120">YOU ARE USING AN OUTDATED BROWSER</strong>
+		<div class="vertical-offset-5">It is limiting your browsing experience. Please upgrade to a modern browser.</div>
+	</div></noindex>
+</div>
+
+
+
+
+<div style="margin: 0 auto;padding:5px;display:none" class="alert alert-warning cookies-alert">
+	<div class="group-ib big-gap vertical-gap"><div><i class="fa fa-exclamation-triangle"></i> Cookies and local storage help us deliver our services. By using our services, you agree to <a class="color-inherit force-underline" target="_blank" href="/en/p/privacy-policy#cookies">our use of cookies and local storage</a>.</div><a data-dismiss="alert" class="btn btn-sm btn-warning cookies-alert-accept" href="#">Got it</a></div></div>
+		<div class="row upper">
+			<div class="vertical-offset-5 hidden-print">
+				<!--/15222045/v_details_728x90_atf --><div id='div-gpt-ad-1444636438315-33' style='margin-left: auto;margin-right: auto;'></div>				<div id="upper_menu_stats" class="list-group pull-right text-left text-overflow hidden" style="margin-bottom:0px; margin-left: 10px">
+					<a href="/en/ais/index/ships/range" class="list-group-item bg-primary text-primary">
+						<strong id="totalShipsTop">--</strong>						<span class="vessels_live_text">ships live now</span>					</a>
+					<a href="/en/ais/index/ships/all" class="list-group-item bg-default">
+						<strong id="vessels_db_text">--</strong>						<span class="vessels_db_text">vessels in database</span>					</a>
+					<a href="/en/photos/of/ships" class="list-group-item bg-default bg-light">
+						<strong id="vessels_db_text">--</strong>						<span class="photos_up_text">photographs uploaded</span>					</a>
+				</div>
+			</div>
+		</div>
+
+				<div class="row">
+<div class="col-xs-12">
+
+<div class="well bg-primary padding-10 radius-4 vertical-offset-20 text-left">
+	<div class="table-cell text-overflow text-left collapse-768" style="vertical-align: top">
+		<div class="group-ib">
+							<a href="/en/ais/index/ships/range/flag:NL"><img
+						src="/img/flags/png40/NL.png"
+						alt="Netherlands" title="Netherlands" border="0"/></a>
+						<h1 class="font-200 no-margin">BOEI 2</h1>
+					</div>
+
+		<div class="group-ib vertical-offset-10">
+							<a href="/en/ais/index/ships/range/ship_type:3">
+					<img src="/img/vessel_types/vi3.png" width="27px" height="27px"
+						 alt="Local Vessel" title="Local Vessel" border="0"/>
+				</a>
+						<a class="font-120"
+			   href="/en/ais/index/ships/range/ship_type:3">Local Vessel</a>
+		</div>
+
+	</div>
+	<div style="vertical-align: bottom" class="table-cell cell-full text-right collapse-768 text-right">
+		<div class="ib-elem">
+			<div class="table-cell full-width" style="vertical-align: bottom">
+				<div class="vertical-offset-10 group-ib no-gap" style="vertical-align: bottom">
+										
+			
+					<a target="_blank"
+					   href="/en/users/my_account/notifications/index/wizard/shipid:1336912"
+					   class="no-underline color-inherit login_gate" style="padding: 2px 8px"
+					   data-login-error="You need to Sign in to use this feature">
+						<i class="flaticon-small36"></i>&nbsp;
+						Create notifications for this Vessel					</a>
+
+					<div class="group-ib big-gap" style="padding: 1px 8px; border-left: 1px solid #36D6F7">
+						<div>Fleet controls:</div>
+						<button class="btn btn-info btn-alt2 btn-sm radius-1 login_gate" data-mixpanel="Fleet" data-login-error="You need to Sign in to use this feature">Add to Fleet</button>					</div>
+
+					
+					
+						<div class="group-ib big-gap" style="margin: 0 8px; padding: 2px 8px; border-left: 1px solid #36D6F7">
+							<a href="/en/wiki/edit/1336912"
+							   class="contribute login_gate group-ib small-gap no-underline"
+							   data-login-error="You need to Sign in to use this feature">
+								<i class="fa fa-pencil font-110 font-normal"></i>
+								<span>Contribute to this page</span>
+							</a>
+						</div>
+
+									</div>
+			</div>
+					</div>
+	</div>
+</div>
+
+</div>
+</div>
+<div class="row gutter-10">
+<div class="col-md-6 col-lg-5">
+
+<div class="bg-info bg-light padding-10 radius-4 text-left">
+	<div class="row equal-height">
+		<div class="col-xs-6" style="border-right: 1px dotted #000">
+			<div class="group-ib short-line">
+				
+									<span>IMO: </span>
+					<b>-</b>
+							</div>
+
+							<div class="group-ib short-line vertical-offset-5">
+					<span>MMSI: </span>
+					<b>244010235</b>
+				</div>
+			
+			<div class="group-ib short-line vertical-offset-5">
+				<span>Call Sign: </span>
+				<b>BOEI2</b>
+			</div>
+			<div class="group-ib short-line vertical-offset-5">
+				<span>Flag: </span>
+				<b>Netherlands [NL]</b>
+			</div>
+			<div class="group-ib short-line vertical-offset-5">
+				<span>AIS Vessel Type: </span>
+				<b>Local Vessel</b>
+			</div>
+		</div>
+		<div class="col-xs-6">
+			<div class="group-ib short-line">
+				<span>Gross Tonnage: </span>
+				<b>-</b>
+			</div>
+			<div class="group-ib short-line vertical-offset-5">
+				<span>Deadweight: </span>
+				<b>-</b>
+			</div>
+			<div class="group-ib short-line vertical-offset-5">
+				<span>Length Overall x Breadth Extreme: </span>
+				<b>4m &times; 4m</b>
+			</div>
+			<div class="group-ib short-line vertical-offset-5">
+				<span>Year Built: </span>
+				<b>-</b>
+			</div>
+			<div class="group-ib short-line vertical-offset-5">
+				<span>Status: </span>
+				<b>Active</b>
+			</div>
+		</div>
+	</div>
+
+	</div>
+<div class="panel panel-primary no-border vertical-offset-20">
+
+	<div>
+		<ul id="detail-wigdet-tabs" class="nav nav-tabs fluidwidth">
+			<li class="active full-height">
+				<a href="#tabs-voyage-info" role="tab" data-toggle="tab" class="font-120 short-line vertical-aligned-flex text-center"><span>Voyage Info</span></a>
+			</li>
+			<li class="full-height">
+							</li>
+		</ul>
+	</div>
+
+	<div class="panel-body">
+		<div class="tab-content">
+			<div class="tab-pane active" id="tabs-voyage-info">
+
+				
+
+													<div class="radius-3 text-center" style="background-color: #666666; color: #FFFFFF; margin-bottom: 10px; padding: 5px 8px">
+								For full access&nbsp;&nbsp;&nbsp;
+								<a href="/en/p/plans" class="btn btn-success btn-sm btn-alt2 radius-3">Upgrade</a>							</div>
+						
+						
+<div class="full-height full-width snippet-container ">
+	<div class="infowin-container transitional no-snippet-infowin fluidwidth">
+		<div class="action-and-more">
+			<div class="padding-10">
+				<div class="row vertical-offset-7">
+				<div class="col-xs-6">
+				<div class="font-85">ACTIONS ON MAP</div>
+				<hr class="no-margin" style="border-color:#506DA7; border-width: 2px"/>
+				<ul class="no-margin no-padding no-disc vertical-offset-7 font-95">
+					<li>
+						<a class="infowindow_action vessel_track vertical-offset-7 color-inherit ib-elem" href="#"
+						   onclick="initTrackingDates();getTracking(
+						   ,
+						   ,
+						   0, event);return false;">Show Previous Track</a>
+					</li>
+					<li>
+						<a class="infowindow_action vessel_track vertical-offset-7 color-inherit ib-elem"
+						   href="#"
+						   onclick="initEstimatedTrack(
+						   ,
+						   0, event);return false;">Show Route Forecast</a>
+					</li>
+					<li>
+						<a class="infowindow_action distance_tool vertical-offset-7 color-inherit ib-elem" href="#"
+						   onclick="initDistance(, , 0);return false;">Distance to...</a>
+					</li>
+				</ul>
+				</div>
+				<div class="col-xs-6">
+				<div class="font-85">MORE INFO</div>
+				<hr class="no-margin" style="border-color:#506DA7; border-width: 2px"/>
+				<ul class="no-margin no-padding no-disc vertical-offset-7 font-95">
+					<li>
+						<a class="infowindow_action goto_itineraries vertical-offset-7 color-inherit ib-elem"
+						   target="_top"
+						   href="/en/ais/index/itineraries/all/shipname:">Itineraries History</a>
+					</li>
+					<li>
+						<a class="infowindow_action goto_positions vertical-offset-7 color-inherit ib-elem"
+						   target="_top"
+						   href="/en/ais/index/positions/all/shipname:">Position History</a>
+					</li>
+					<li>
+						<a class="infowindow_action goto_port_calls vertical-offset-7 color-inherit ib-elem"
+						   target="_top"
+						   href="/en/ais/index/port_moves/all/shipname:">Port Calls</a>
+					</li>
+					<li>
+						<a class="infowindow_action goto_nearby_ships vertical-offset-7 color-inherit ib-elem"
+						   target="_top"
+						   href="/en/ais/index/ships/nearby/shipname:">Nearby Vessels</a>
+					</li>
+				</ul>
+				</div>
+				</div>
+			</div>
+		</div>
+		<div class="bg-default bg-white no-snippet-hide">
+			<div class="padding-7">
+				<div class="row text-default text-darker gutter-7">
+				<div class="col-xs-6 text-left">
+				<div class="ib-elem">
+					<div
+						title="HAIFA [IL]"
+						data-toggle="tooltip"
+						data-template='<div class="tooltip infowin-tooltip" role="tooltip"><div class="tooltip-arrow"><div class="tooltip-arrow-inner"></div></div><div class="tooltip-inner" style="text-align: left"></div></div>'
+						data-html="true" data-placement="top" data-container=".snippet-container" data-viewport=".snippet-container"
+						class="font-160 line-110">
+													<a href="/en/ais/details/ports/1621"
+							   class="no-underline group-ib color-inherit" >
+								<span class="text-default">IL</span></span><span class="text-default text-darker">HFA</span></a>
+											</div>
+				</div>
+				</div>
+				<div class="col-xs-6 text-right">
+				<div class="ib-elem">
+					<div
+						title="Unknown destination"
+						data-toggle="tooltip"
+						data-template='<div class="tooltip infowin-tooltip" role="tooltip"><div class="tooltip-arrow"><div class="tooltip-arrow-inner"></div></div><div class="tooltip-inner" style="text-align: left"></div></div>'
+						data-html="true" data-placement="top" data-container=".snippet-container" data-viewport=".snippet-container"
+						class="font-110 line-110 text-default text-light">
+													<i class="flaticon-anchor5 unknownport-icon"><i class="fa fa-question-circle"></i></i>
+											</div>
+				</div>
+				</div>
+				</div>
+
+				<div class="row text-default text-darker gutter-5 font-90">
+				<div class="col-xs-6 text-left">
+				<div class="font-100 line-110 vertical-offset-5">
+							<span data-toggle="tooltip"
+								  data-template='<div class="tooltip infowin-tooltip" role="tooltip"><div class="tooltip-arrow"><div class="tooltip-arrow-inner"></div></div><div class="tooltip-inner" style="text-align: left"></div></div>'
+								  data-placement="bottom"
+								  data-container=".snippet-container"
+								  data-viewport=".snippet-container"
+								  data-html="true"
+								  title="Actual Time of Departure">
+										<b>ATD											:</b>
+							</span>
+                    <span class="time-format hide-me" data-defaultCase="lt" data-timezone="180" data-timezoneWording="true" data-diffWording="ago">
+                        1466403420                    </span>
+				</div>
+				</div>
+				<div class="col-xs-6 text-right">
+				<div class="font-100 line-110 vertical-offset-5">
+					<b>
+						<span
+							data-html="true"
+							data-template='<div class="tooltip infowin-tooltip" role="tooltip"><div class="tooltip-arrow"><div class="tooltip-arrow-inner"></div></div><div class="tooltip-inner" style="text-align: left"></div></div>'
+							data-toggle="tooltip"
+							data-placement="bottom"
+							data-container=".snippet-container"
+							data-viewport=".snippet-container"
+							title="Estimated Time of Arrival">
+							ETA:
+						</span>
+					</b>
+					<span class="time-format hide-me" data-defaultCase="lt" data-timezone="" data-timezoneWording="true" data-diffWording="remaining">
+						 - 					</span>
+											<a
+							tabindex="0"
+							data-trigger="focus"
+							role="button"
+							data-toggle="popover"
+							data-content='	<div class="radius-3" style="background-color: #666666; color: #FFFFFF; position: relative; z-index: 10; padding: 5px 8px">
+		<div class="table-cell" style="white-space: nowrap">
+			For full access		</div>
+		<div class="table-cell">
+			<a href="/en/p/plans" class="btn btn-success btn-sm btn-alt2 radius-3">Upgrade</a>		</div>
+	</div>
+
+	<hr style="margin: 4px 0; border-color: #333333">
+
+<div style="margin: 3px 10px" class="group-ib">
+	<span>ETA Calculated at:</span>
+	<i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i></div>
+<hr style="margin: 4px 0; border-color: #333333">
+
+<div style="margin: 3px 10px" class="group-ib">
+	<span>Calculated ETA:</span>
+	<span>
+        <i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i><i class="fa fa-circle font-50"></i>    </span>
+</div>
+<hr style="margin: 4px 0; border-color: #333333">
+
+<div style="margin: 3px 10px" class="group-ib">
+	<span>Reported ETA:</span>
+    <span>
+        -    </span>
+</div>
+<hr style="margin: 4px 0; border-color: #333333">
+
+<div style="margin: 3px 10px" class="group-ib">
+	<span>Reported Destination:</span>
+	<b></b>
+</div>'
+							data-html="true"
+							data-placement="top"
+							data-container="body"
+							data-template='<div class="popover infowin-tooltip no-padding" role="tooltip"><div class="tooltip-arrow"><div class="tooltip-arrow-inner"></div></div><div class="popover-content padding-4" style="color: #DDDDDD"></div></div>'
+							>
+							<i class="fa fa-info-circle font-130 text-default text-darker" style="line-height: 10px"></i>
+						</a>
+									</div>
+				</div>
+				</div>
+
+				<div class="infosnippet-timeline-cont unknown-destination">
+					<div class="infosnippet-timeline">
+						<div class="infosnippet-startpoint"></div>
+						<div class="infosnippet-endpoint"></div>
+						<div class="infosnippet-sofar"
+							 style="width: -2.5283433940709%">
+						<span class="infosnippet-pop-trigger">
+						<a tabindex="0" role="button" href="#"
+						   class="infosnippet-pop"
+						   style="position: absolute; top: -15px; right: -15px"
+						   title='	<div class="radius-3 padding-10" style="background-color: #666666; color: #FFFFFF; position: relative; z-index: 10">
+		<div class="table-cell big-gap" style="white-space: nowrap">
+			For full access		</div>
+		<div class="table-cell">
+			<a href="/en/p/plans" class="btn btn-success btn-sm btn-alt2 radius-3">upgrade to activate</a>		</div>
+	</div>
+
+	<hr style="margin: 4px 0; border-color: #333333">
+
+
+		<div style="margin: 3px 10px" class="group-ib">
+			<span>Distance Travelled:</span>
+								<span class="text-default text-light">
+													<i class="fa fa-circle font-50"></i>
+													<i class="fa fa-circle font-50"></i>
+													<i class="fa fa-circle font-50"></i>
+													<i class="fa fa-circle font-50"></i>
+													<i class="fa fa-circle font-50"></i>
+											</span>
+							</div>
+		'
+						   data-toggle="tooltip"
+						   data-trigger="manual"
+						   data-placement="top"
+						   data-html="true"
+						   data-template='<div class="tooltip infowin-tooltip infosnippet-tooltip no-padding" role="tooltip" style="z-index: 2000; max-width: none"><div class="tooltip-arrow"><div class="tooltip-arrow-inner"></div></div><div class="tooltip-inner padding-4" style="text-align: left; max-width: none; white-space: nowrap"></div></div>'
+							>
+							<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+								 x="0px" y="0px" width="31px"
+								 height="31px" viewBox="0 0 16 16" enable-background="new 0 0 16 16"
+								 xml:space="preserve"> <path fill="#009AFB"
+															 d="M14.755,7.924L3.065,1.427C2.931,1.351,2.814,1.341,2.718,1.4C2.621,1.459,2.573,1.565,2.573,1.718 l2.91,6.767l-2.91,6.191c0,0.151,0.048,0.258,0.145,0.317c0.097,0.058,0.213,0.05,0.348-0.027l11.689-6.497 c0.135-0.076,0.204-0.167,0.204-0.272C14.959,8.091,14.89,8,14.755,7.924z"/> </svg>
+						</a>
+							</span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+				<div class="col-xs-6">
+														<a class="btn btn-primary btn-sm btn-infowin font-100 radius-2 no-border btn-block text-overflow pnd_detail_past_track"
+					   href="/en/ais/home/shipid:1336912/tracktype:3/lpt:1466403420">
+											<span style="vertical-align: sub; line-height: 10px">
+							<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg"
+								 x="0px" y="0px" width="17px" height="17px"
+								 viewBox="0 0 17 17" enable-background="new 0 0 17 17" xml:space="preserve"> <g>
+									<circle fill="#FFFFFF" cx="14.182" cy="2.817" r="1.818"/>
+									<circle fill="#FFFFFF" cx="10.091" cy="6.909" r="1.818"/>
+									<circle fill="#FFFFFF" cx="10.091" cy="12.818" r="1.818"/>
+									<circle fill="#FFFFFF" cx="2.818" cy="14.182" r="1.818"/>
+									<g>
+										<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="13.955" y1="3.045"
+											  x2="10.318" y2="6.682"/>
+										<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="10.318" y1="6.682"
+											  x2="10.318" y2="13.046"/>
+										<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="10.318"
+											  y1="13.046" x2="3.045" y2="13.955"/>
+									</g>
+								</g> </svg>
+						</span>
+						Past Track					</a>
+
+								</div>
+
+				<div class="col-xs-6">
+
+									<a class="btn btn-default btn-dark btn-sm btn-infowin font-100 radius-2 no-border btn-block text-overflow pnd_detail_forecast"
+					   href="#" disabled="disabled">
+						<span style="vertical-align: sub; line-height: 10px">
+								<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg"
+									 x="0px" y="0px" width="17px"
+									 height="17px" viewBox="0 0 17 17" enable-background="new 0 0 17 17"
+									 xml:space="preserve"> <g>
+										<circle fill="#FFFFFF" cx="14.182" cy="2.817" r="1.818"/>
+										<circle fill="#FFFFFF" cx="10.091" cy="6.909" r="1.818"/>
+										<circle fill="#FFFFFF" cx="10.091" cy="12.818" r="1.818"/>
+										<circle fill="#FFFFFF" cx="2.818" cy="14.182" r="1.818"/>
+										<g>
+											<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="13.955"
+												  y1="3.045" x2="10.318" y2="6.682"/>
+											<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="10.318"
+												  y1="6.682" x2="10.318" y2="13.046"/>
+											<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="10.318"
+												  y1="13.046" x2="3.045" y2="13.955"/>
+										</g>
+									</g> </svg>
+							</span>
+						Route Forecast					</a>
+
+								</div>
+				</div>
+
+				<div class="vertical-offset-10"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="destination-unresolved-message" style="display: none;">
+	Route Forecast unavailable.<br />Reported destination  could not be matched to a known port.</div>
+
+						
+							<div class="table-responsive mt-table">
+								<table class="table table-striped table-striped-alt table-condensed voyage-related table-aftesnippet table-aftesnippet-primary no-margin">
+																			<tr>
+											<td style="width: 50%;">Distance Travelled</td>
+											<td>
+										<span class="text-default">
+																								<span class="text-default text-light">
+																													<i class="fa fa-circle font-50"></i>
+																													<i class="fa fa-circle font-50"></i>
+																													<i class="fa fa-circle font-50"></i>
+																													<i class="fa fa-circle font-50"></i>
+																													<i class="fa fa-circle font-50"></i>
+																											</span>
+																							</span>
+											</td>
+										</tr>
+
+																	</table>
+							</div>
+
+							<hr style="border-color: #4C4C4C; margin: 2px 0"/>
+							
+						<div class="table-responsive mt-table">
+							<table class="table table-striped table-striped-alt table-condensed voyage-related table-aftesnippet">
+
+								
+									<tr>
+										<td style="width: 50%;">Draught</td>
+										<td><b>-</b></td>
+									</tr>
+
+								
+									<tr>
+										<td style="width: 50%;">Speed recorded (Max / Average)</td>
+										<td><b>6.4 / 5.6 knots</b></td>
+									</tr>
+
+								
+							</table>
+						</div>
+
+						<div class="text-left group-ib vertical-gap">
+							<a href="/en/ais/index/itineraries/all/shipid:1336912/mmsi:244010235/shipname:BOEI%202" class="btn btn-primary btn-sm btn-infowin font-100 radius-2 no-border text-overflow">
+								Itineraries History <i style="margin-left: 20px;" class="fa fa-chevron-right"></i>
+							</a>
+
+							<a href="/en/ais/index/positions/all/shipid:1336912/mmsi:244010235/shipname:BOEI%202" class="btn btn-primary btn-sm btn-infowin font-100 radius-2 no-border text-overflow">
+								Latest Positions <i style="margin-left: 20px;" class="fa fa-chevron-right"></i>
+							</a>
+						</div>
+
+						<div class="text-right font-90 text-default text-light last-updated vertical-offset-20">
+							<!--					FIX CORE-1948 Duplication of Time-->
+							Class B AIS static data received at: <time datetime="1503477900"><span class=time-format hide-me" data-defaultCase="lt" data-timezone="120" data-timezoneWording="true" data-diffWording="ago">1503477900</span></time> 						</div>
+												</div>
+
+<!--			Compaines at Destination Tab-->
+					</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+
+	function setCompanyClicks(href, companyID){
+		var url = '/companies/setCompanyClicks';
+		$.ajax({
+			type: 'POST',
+			url,
+			data: {companyID : companyID, clickType: 4},
+			success: (response) => {
+			},
+		});
+
+		if (href) {
+			window.open(href, "_blank");
+		}
+	}
+</script><div class="panel panel-primary no-border vertical-offset-20">
+
+	<div>
+		<ul id="detail-wigdet-tabs" class="nav nav-tabs fluidwidth">
+			<li class="active full-height">
+				<a href="#tabs-last-pos" role="tab" data-toggle="tab" class="font-120 short-line vertical-aligned-flex text-center"><span>Latest Position</span></a>
+			</li>
+			<li class="full-height">
+									<a href="#tabs-nearby-comp" role="tab" data-toggle="tab" class="font-120 short-line vertical-aligned-flex text-center"><span>Nearby Companies</span></a>
+							</li>
+		</ul>
+	</div>
+
+	<div class="panel-body">
+		<div class="tab-content">
+			<div class="tab-pane active" id="tabs-last-pos">
+				
+					<div class="panel panel-primary no-border ">
+						<div class="panel-heading">
+							<header class="row">
+								<h2 class="col-xs-5 text-left no-margin font-140">Latest Position</h2>
+								<span class="col-xs-3 text-left no-margin">
+																	</span>
+								<span
+									class="col-xs-4 text-right">In Range								</span>
+							</header>
+						</div>
+						<div class="panel-body text-left short-line">
+							
+							<div class="table-cell cell-full collapse-768" style="vertical-align: top">
+																	<div class="group-ib">
+										<span>Position Received: </span>
+										<strong>6 minutes ago 											(2017-08-23 09:05 (UTC))</strong>
+									</div>
+									<div class="vertical-offset-10 group-ib">
+										<span>Vessel's Local Time: </span>
+																				<strong><span class="formatTime hide-me" data-overrideAbbreviation="empty" data-time="1503479134" data-timezone="120"><time datetime="2017-08-23 09:05:34">2017-08-23 11:05</time> (UTC +2)</span></strong>
+									</div>
+								
+																	<div class="vertical-offset-10 group-ib">
+																				<span>Area: </span>
+										<span><strong>EMED - East Mediterranean</strong></span>
+									</div>
+								
+																	<div class="vertical-offset-10 group-ib">
+										<span>Latitude / Longitude: </span>
+										<span><strong><a href="/en/ais/home/centerx:34.9447899/centery:33.0350304/zoom:10/mmsi:244010235/shipid:1336912" class="details_data_link">33.0350304&deg; / 34.9447899&deg;</a></strong></span>
+									</div>
+								
+								<div class="vertical-offset-10 group-ib">
+									<span>Status:</span>
+									<span><strong>Class B</strong></span>
+								</div>
+
+								<div class="vertical-offset-10 group-ib">
+									<span>Speed/Course: </span>
+									<span><strong>1.0kn / 151&deg;</strong></span>
+								</div>
+
+																	<div class="vertical-offset-10 group-ib">
+										<span>AIS Source: </span>
+										<span><strong><a href="/en/ais/details/stations/1416" class="details_data_link">1416</a> GM</strong></span>
+									</div>
+								
+								<div class="vertical-offset-10"></div>
+
+								<a href="/en/ais/index/ships/nearby/shipid:1336912/mmsi:244010235/shipname:BOEI%202"
+								   class="btn btn-primary btn-sm btn-infowin font-100 radius-2 no-border text-overflow">
+									Nearby Vessels <i style="margin-left: 20px;"
+																						  class="fa fa-chevron-right"></i>
+								</a>
+							</div>
+
+							                            <script type="text/javascript">
+                                var lat = 33.0350304;
+                                var lon = 34.9447899;
+                                var marker_icon = 'http://www.marinetraffic.com/img/shipicons/cyan1_150.png';
+                            </script>
+                                <div class="table-cell collapse-500" style="vertical-align: top">
+                                    <div id="last_pos_map_canvas" class="last-position-map" style="height:218px;width:266px">
+										<div class="lpm-wrapper">
+											<a id="last_pos_btn" class="btn btn-success" style="color:#FFFFFF"
+											   href="/en/ais/home/centerx:34.9447899/centery:33.0350304/zoom:8/mmsi:244010235/shipid:1336912">
+												Show on live map												<i class="fa fa-chevron-right"></i>
+												<i class="fa fa-chevron-right"></i>
+											</a>
+										</div>
+									</div>
+								</div>
+
+								
+									<div class="wind-area vertical-offset-20">
+										<div class="wind_icon wind_low" style="cursor:default; background-position: -40px -560px;"></div>
+										<div>
+											<span>Wind: </span>
+											<span><strong>7													&nbsp;knots</strong></span>
+										</div>
+										<div>
+											<span>Wind direction: </span>
+											<span><strong>SW													(213<sup>o</sup>)</strong></span>
+										</div>
+										<div>
+											<span>Temperature: </span>
+											<span><strong>26<sup>o</sup>C</strong></span>
+										</div>
+									</div>
+									
+														</div>
+					</div>
+							</div>
+
+							<div class="tab-pane text-left" id="tabs-nearby-comp">
+					<div class="row gutter-2 equal-height">
+					
+																	<div class="col-xs-12 col-sm-6 vertical-offset-4 full-height">
+										<a class="block-elem full-width bg-default bg-lighter no-underline" style="padding: 5px 8px; min-height: 50px"
+										   href="javascript:setCompanyClicks('/en/maritime-companies/profile/68273/company_name:g%20g%20rom%20ltd', '68273');">
+											<h4 class="font-105 text-primary text-light no-margin">G G Rom Ltd</h4>
+											<small class="text-default text-light font-90">Ship Repairs</small>
+										</a>
+									</div>
+																
+																	<div class="col-xs-12 col-sm-6 vertical-offset-4 full-height">
+										<a class="block-elem full-width bg-default bg-lighter no-underline" style="padding: 5px 8px; min-height: 50px"
+										   href="javascript:setCompanyClicks('/en/maritime-companies/profile/57562/company_name:ims', '57562');">
+											<h4 class="font-105 text-primary text-light no-margin">IMS</h4>
+											<small class="text-default text-light font-90">Oil and Gas</small>
+										</a>
+									</div>
+																
+																	<div class="col-xs-12 col-sm-6 vertical-offset-4 full-height">
+										<a class="block-elem full-width bg-default bg-lighter no-underline" style="padding: 5px 8px; min-height: 50px"
+										   href="javascript:setCompanyClicks('/en/maritime-companies/profile/56007/company_name:copsco', '56007');">
+											<h4 class="font-105 text-primary text-light no-margin">COPSCO</h4>
+											<small class="text-default text-light font-90">Cargo Trader
+</small>
+										</a>
+									</div>
+																
+																	<div class="col-xs-12 col-sm-6 vertical-offset-4 full-height">
+										<a class="block-elem full-width bg-default bg-lighter no-underline" style="padding: 5px 8px; min-height: 50px"
+										   href="javascript:setCompanyClicks('/en/maritime-companies/profile/46630/company_name:tms%20israel', '46630');">
+											<h4 class="font-105 text-primary text-light no-margin">TMS ISRAEL</h4>
+											<small class="text-default text-light font-90">Ship Chandler/Supplier</small>
+										</a>
+									</div>
+																					</div>
+					<div class="text-right vertical-offset-20">
+						<a class="btn btn-primary btn-light" href="/en/maritime-companies/directory/port:1621">
+							Show All&nbsp;<i class="fa fa-angle-right"></i>
+						</a>
+					</div>
+				</div>
+					</div>
+	</div>
+
+</div>
+
+
+
+
+
+
+
+<div class="panel panel-primary no-border vertical-offset-20">
+	<header class="panel-heading">
+		<div class="row">
+		<h2 class="col-xs-6 text-left no-margin font-140">Recent Port Calls</h2>
+            <span class="col-xs-6 text-right">
+                <button class="btn pc_local btn-info btn-xs" id="pc_local">Local Time</button>				 				<button class="btn pc_utc btn-default btn-xs" id="pc_utc">Time (UTC)</button>                                 <button class="btn pc_my_time btn-default btn-xs" id="pc_my_time">My Time</button>                                 <button class="btn pc_diff btn-default btn-xs" id="pc_diff">Diff</button>            </span>
+		</div>
+	</header>
+
+	<div class="panel-body text-left">
+
+		<div class="table-responsive mt-table">
+
+			<table class="table table-striped table-condensed">
+
+				<tr>
+					<th>Port</th>
+					<th>
+						<span class="pc_utc_data">Arrival (UTC)</span>
+						<span class="pc_local_data">Arrival (LT)</span>
+						<span class="pc_my_time_data">Arrival (MyT)</span>
+						<span class="pc_diff_data">Arrival</span>
+					</th>
+					<th>
+						<span class="pc_utc_data">Departure (UTC)</span>
+						<span class="pc_local_data">Departure (LT)</span>
+						<span class="pc_my_time_data">Departure (MyT)</span>
+						<span class="pc_diff_data">Departure</span>
+					</th>
+					<th>In Transit</th>
+				</tr>
+
+				<tr>
+	                            <td colspan="4">No Records Found</td>
+    	                    </tr>			</table>
+		</div>
+
+		
+	</div>
+</div>
+
+<!--/15222045/v_details_300x250_btf --><div id='div-gpt-ad-1444636438315-32' style='width:300px; height:250px;margin:10px auto;'></div></div>
+<div class="col-md-6 col-lg-7">
+<div class="bg-default bg-dark radius-8 preloading" style="overflow: hidden">
+    <div class="padding-10">
+			<a href="/en/photos/of/ships/shipid:1336912/ship_name:BOEI%202#2796532" class="block-elem" id="big-image">
+				<img class="img-responsive center-block big_image" src="//photos.marinetraffic.com/ais/showphoto.aspx?photoid=2796532&size=" alt="BOEI 2" title="BOEI 2" border="0" style="margin-bottom:10px;" />
+			</a>
+		<div class="image_carousel" style="overflow:hidden"><div id="vessels_photos"></div></div><div class="group-ib vertical-gap"><a data-mixpanel="Upload Photo" class="login_gate btn btn-success"  href="/en/photos/upload/shipid:1336912/name:BOEI%202/type:Special%20Craft" data-login-error="You need to Sign in to use this feature"><i class="fa fa-upload"></i>&nbsp;Upload a photo</a>
+				<a class="btn btn-primary" href="/en/photos/of/ships/shipid:1336912/shipname:BOEI%202/mmsi:244010235">
+					<i class="fa fa-camera"></i>&nbsp;Ship Photos: 1
+				</a>
+			</div></div></div>
+
+<div class="bg-default bg-dark padding-10 radius-8 vertical-offset-20">
+	<div class="vessel_timeline">
+		<div class="preloader static"></div>
+	</div>
+</div>
+
+
+
+    <div class="panel panel-primary no-border vertical-offset-20">
+        <header class="panel-heading">
+            <div class="row">
+                <h2 class="col-xs-6 text-left no-margin font-140">Vessel's Wiki</h2>
+                <a class="col-xs-6 text-right" style="color:#fff;" href="/en/wiki/edit/1336912"><i class="fa fa-pencil"></i> Contribute to this page</a>            </div>
+        </header>
+
+        <div class="panel-body text-left">
+            <div class="row arrow-panel equal-height gutter-minus-5 text-left">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+<ul class="nav mt-nav-pills nav-pills nav-stacked"><li title="General" class="active"><a class="no-border" data-toggle="tab" href="#vessel_details_general">General</a></li><li title="Ex Names History" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_exnames">Ex Names History</a></li><li title="Companies" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_companies">Companies</a></li><li title="Build" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_built">Build</a></li><li title="Dimensions" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_dimensions">Dimensions</a></li><li title="Tonnage/Capacity" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_tonnage_capacities">Tonnage/Capacity</a></li><li title="Gear" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_construction_gear_machinery">Gear</a></li><li title="Engine details" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_engine">Engine details</a></li><li title="Contacts" class=""><a class="no-border" data-toggle="tab" href="#vessel_details_communication">Contacts</a></li></ul></div>
+<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 full-height">
+<div class="panel panel-default tab-content"><div class="panel-body tab-pane" id="vessel_details_general"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>MMSI: <b>244010235</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>IMO: <b>0</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Type: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Hull Number: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Class: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Status: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Year scrapped/lost: <b></b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_exnames"></div><div class="panel-body tab-pane" id="vessel_details_companies"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Owner: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Manager: <b></b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_built"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Builder: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Built: <b></b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_dimensions"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Length overall (LOA): <b>2 m</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Beam: <b>2 m</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Draught (max): <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Depth: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Height: <b>-</b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_tonnage_capacities"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Gross Tonnage (GT): <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Net Tonnage (NT): <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Deadweight (DWT): <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Displacement: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Holds/Tanks: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Bale: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Grain: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>TEU: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Passengers: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Cars: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Trucks: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Ro-Ro Lanes: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Liquid Capacity: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Liquid Gas Capacity: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Oil Capacity: <b>-</b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_construction_gear_machinery"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Safe Working Load (SWL): <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Gear: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Hatches: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Number of Pumps: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Pumps Capacity: <b></b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_engine"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Number of Main Engine(s): <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Main Engine builder: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Main Model: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Main RPM: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Main power / Main HP: <b>- / -</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Main Fuel: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Main Consumption: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Number of Auxiliary Engine(s): <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Aux Engine builder: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Aux Model: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Aux RPM: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Aux power / Auxiliary HP: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Aux Fuel: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Aux Consumption: <b>-</b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Bowthruster: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Propeller(s): <b></b></span></li></ul></div><div class="panel-body tab-pane" id="vessel_details_communication"><ul class="vp-ul no-padding no-disc"><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Sat Telex: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Sat Phone: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Sat Fax: <b></b></span></li><li class="group-ib medium-gap line-120 vertical-offset-10"><i class="fa fa-angle-right font-bold font-95 text-primary text-dark"></i><span>Mobile number: <b></b></span></li></ul></div></div></div>
+</div>
+        </div>
+    </div>
+</div>
+</div>
+
+							</div>
+			<div class="stay-natural">
+				    <div id="skyscrapper_container" class="ads hidden-print vertical-offset-5" style="background-color: #E5E7E9;">
+        <div class="banner_160x600">
+            <!--/15222045/v_details_160x600_atf --><div id='div-gpt-ad-1444636438315-30' style='width:160px; height:600px;'></div>        </div>
+        <div class="banner_160">
+            <!-- mt_home_atf_160x160 --><div id='div-gpt-ad-1381773599378-0' style='width:160px; height:160px;'></div>        </div>
+        <div class="banner_40X160" style="height: 40px;">
+            <a style="font-size: 12px; color:gray; line-height: 40px;" href="/en/p/plans">Remove Ads</a>
+        </div>
+                <div class="banner_160x600_btf" style="margin-top: 10px">
+            <!--/15222045/v_details_160x600_btf --><div id='div-gpt-ad-1444636438315-31' style='width:160px; height:600px;'></div>        </div>
+            </div>
+			</div>
+		</div>
+
+	</div>
+</main>
+
+<footer role="contentinfo" class="bg-primary bg-darker text-left vertical-offset-20">
+	<div class="container">
+	<div class="row equal-height gutter-5 vertical-offset-15 vertical-offset-20-bs">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-left collapse-textcenter">
+	<div class="group-ib big-gap vertical-gap">
+		<a class="btn btn-primary btn-sm group-ib font-90 line-120 radius-2 pnd-footer-help" id="footer-help-button" href="http://help.marinetraffic.com/?utm_campaign=Footer&utm_source=terms_list&utm_medium=help
+" target="_blank" title="Help">
+					<span style="position: relative;text-shadow: none;top: 1px;">
+						<span class="glyphicon glyphicon-comment font-140"></span>
+						<i class="fa fa-question text-primary" style="position: absolute;top: 2px;left: 5px;"></i>
+					</span>
+			<span>Help Center</span>
+		</a>
+		<span style="height: 16px; line-height: 16px" class="footer-link-i-bottom no-padding">&nbsp;</span>
+		<div class="group-ib">
+			<a class="footer-link-i footer-btn-i transitional300" href="https://www.facebook.com/MarineTraffic" target="_blank"
+			   title="MarineTraffic on Facebook" rel="nofollow">
+				<i class="fa fa-facebook font-130"></i>
+			</a>
+
+			<a class="footer-link-i footer-btn-i transitional300" href="https://twitter.com/MarineTraffic" target="_blank"
+			   title="MarineTraffic on Twitter" rel="nofollow">
+				<i class="fa fa-twitter font-130"></i>
+			</a>
+
+			<a class="footer-link-i footer-btn-i transitional300"
+			   href="https://plus.google.com/b/110483202566231084267/+marinetraffic/posts" target="_blank"
+			   title="MarineTraffic on Google+"
+			   rel="nofollow">
+				<i class="fa fa-google-plus font-120"></i>
+			</a>
+
+			<a class="footer-link-i footer-btn-i transitional300" href="https://www.youtube.com/user/MarineTrafficMedia" target="_blank"
+			   title="MarineTraffic on YouTube" rel="nofollow">
+				<i class="fa fa-youtube font-130"></i>
+			</a>
+
+		</div>
+	</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-right collapse-textcenter vertical-aligned-flex text-right">
+
+	<div class="group-ib enormous-gap vertical-gap">
+		<span class="text-primary">Mobile Apps</span>
+		<div class="group-ib big-gap">
+			<a class="footer-link-i footer-btn-i-left transitional300" href="http://itunes.apple.com/us/app/marinetraffic/id563910324"
+			   target="_blank" title="MarineTraffic for iPhone, iPad and iPod Touch" rel="nofollow">
+				<i class="fa fa-apple font-210"></i>
+			</a>
+			<a class="footer-link-i footer-btn-i-left transitional300"
+			   href="https://play.google.com/store/apps/details?id=com.marinetraffic.android" target="_blank"
+			   title="MarineTraffic for Android devices" rel="nofollow">
+				<i class="fa flaticon-google35 font-190"></i>
+			</a>
+			<a class="footer-link-i footer-btn-i-left transitional300"
+			   href="https://www.microsoft.com/en-us/store/p/marinetraffic/9nblggh187jb" target="_blank"
+			   title="MarineTraffic for Windows Phone" rel="nofollow">
+				<i class="fa fa-windows font-200"></i>
+			</a>
+
+			<a class="footer-link-i transitional300"
+			   href="http://www.amazon.com/gp/product/B00MHSJQ7Q/ref=mas_pm_MarineTraffic" target="_blank"
+			   title="MarineTraffic for Kindle Fire" rel="nofollow">
+				<i class="fa flaticon-amazon font-200"></i>
+			</a>
+		</div>
+	</div>
+	</div>
+	</div>
+
+	<hr class="no-margin vertical-offset-15" style="border-color: #546195"/>
+	<div class="row">
+	<div class="col-md-7">
+	<div class="row">
+	<section class="col-sm-4 vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			Products		</h4>
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/plans">Plans & Pricing</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/fleet-add-ons">Fleet Add-on
+</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/payment/buy_credits">Credits</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/marine-advertising">Advertise with us</a>
+			</li>
+		</ul>
+	</section>
+	<section class="col-sm-4 vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			AIS-Data Services		</h4>
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="http://www.marinetraffic.com/en/ais-api-services">API for AIS Data</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/ais-historical-data">Historical Data</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/maritime-intelligence">Maritime Intelligence</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/vessel-timeline">Vessel timeline</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/voyage-forecasts">Voyage forecasts</a>
+			</li>
+		</ul>
+	</section>
+	<section class="col-sm-4 vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			Discover		</h4>
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="http://www.marinetraffic.com/blog">MarineTraffic Blog</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/press-area">Press Area</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/marinetraffic-research">Research</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="https://shop.marinetraffic.com/">AIS E-SHOP</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/embed-map">Embed map</a>
+			</li>
+		</ul>
+	</section>
+	</div>
+	<div class="row">
+	<section class="col-sm-4 vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			Explore		</h4>
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/ais/index/ships/range">
+					Vessels				</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/ais/index/ports/all">Ports</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/ais/index/lights/all">Lights & AtoN</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/photos/of/ships">Photos</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/ais/index/stations/all">Stations</a>
+			</li>
+		</ul>
+	</section>
+	<section class="col-sm-4 vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			Participate		</h4>
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/expand-coverage">Cover your area </a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/apply-for-free-ais-receiver">Free AIS Receiver</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/report-your-own-position">Report your own position</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/photos/upload">Uploaded Photos</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/users/my_account/users/stations">Add your AIS station</a>
+			</li>
+		</ul>
+	</section>
+	<section class="col-sm-4 vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			Quick Links		</h4>
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/">Live Map</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="https://www.marinetraffic.com/en/users/my_account">My Account</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/quick-start-guide">Quick Start Guide</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/ais/index/port_moves/all">Port Calls</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/ais/index/eta/all">Expected Arrivals</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline" target="_blank"
+				   href="https://marinetraffic.workable.com/">Careers at MarineTraffic</a>
+			</li>
+		</ul>
+	</section>
+	</div>
+	</div>
+	<div class="col-md-5">
+	<div class="row">
+	<div class="col-sm-4 col-md-12">
+	<section class="vertical-offset-30">
+		<h4 class="no-margin font-130 text-overflow text-primary">
+			Features		</h4>
+		<div class="row">
+		<div class="col-md-6">
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/satellite-ais">Satellite AIS Coverage</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/density-maps">Density Maps</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/nautical-charts">Nautical Charts</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/my-notifications">Notifications</a>
+			</li>
+		</ul>
+		</div>
+		<div style="margin-top: -10px" class="visible-xs visible-sm"></div>
+		<div class="col-md-6">
+		<ul class="no-disc vertical-offset-10 footer-col">
+			<li class="vertical-offset-10">
+				<div class="visible-xs visible-sm padding-5"></div>
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/corporate-accounts">Corporate Account</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/maritime-companies/search">Business Directory</a>
+			</li>
+			<li class="vertical-offset-10">
+				<a class="footer-link-i transitional300 no-underline"
+				   href="/en/p/mobile">Mobile Apps</a>
+			</li>
+		</ul>
+		</div>
+		</div>
+	</section>
+	</div>
+	<div class="col-sm-8 col-md-12">
+	<article class="bg-primary bg-darkest padding-15 vertical-offset-30" style="font-style: italic">
+		<header>
+			<h4 class="no-margin font-130">
+				Why MarineTraffic?			</h4>
+		</header>
+		<p class="vertical-offset-15">
+			MarineTraffic provides the most comprehensive maritime database to more than 6 million users monthly.		<ul style="font-style: normal">
+			<li>800 million vessel positions recorded monthly</li>
+			<li>18 million vessel and port related events recorded monthly</li>
+			<li>Details of over 650 thousand marine assets available (vessels, ports, lights)</li>
+		</ul>
+		</p>
+		<aside class="font-85">
+			MarineTraffic is the Global pioneer in AIS vessel tracking		</aside>
+	</article>
+	</div>
+	</div>
+	</div>
+	</div>
+
+
+	<hr style="border-color: #546195" class="no-margin vertical-offset-20"/>
+
+	<div class="row equal-height font-90">
+	<div class="col-xs-12 col-sm-7 vertical-aligned-flex vertical-offset-15">
+	<div class="full-width group-ib vertical-gap big-gap text-left collapse-textcenter">
+		<a href="#" class="color-inherit hidden">
+			About		</a>
+		<a class="color-inherit pnd-footer-contactus"
+		   href="/en/p/contact-us">
+			Contact us		</a>
+		<a class="footer-link-i-bottom color-inherit"
+		   href="/en/p/terms">
+			Terms of Service		</a>
+		<a class="footer-link-i-bottom color-inherit"
+		   href="/en/p/privacy-policy">
+			Privacy Policy		</a>
+		<a class="footer-link-i-bottom color-inherit"
+		   href="/en/p/user-agreement">
+			User Agreement		</a>
+	</div>
+	</div>
+	<div class="col-xs-12 col-sm-5 vertical-aligned-flex vertical-offset-15">
+	<div class="full-width group-ib vertical-gap enormous-gap text-right collapse-textcenter">
+		<div>
+			&copy; Copyright 2007-2017 MarineTraffic.com
+		</div>
+		<div>
+			<div class="desktop-visible bg-primary bg-darkest">
+				<div class="btn-group dropup">
+					<button type="button" class="btn btn-link padding-5 line-100 no-underline color-inherit dropdown-toggle no-radius"
+							data-toggle="dropdown">
+						<span> English</span>
+						<span>(EN)</span>
+						<span class="caret"></span>
+					</button>
+					<ul class="dropdown-menu dropdown-menu-right no-padding bg-default bg-lightest lang-drop" style="overflow: hidden">
+						<div style="max-height: 200px; overflow-y: scroll">
+																<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ar/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Arabic"> العربية</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/am/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Armenian"> հայերեն</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/bg/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Bulgarian"> Български</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/cn/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Chinese"> 中文</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/cz/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Czech"> Čeština</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/dk/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Danish"> Dansk</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/de/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="German"> Deutsch</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/gr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Greek"> Ελληνικά</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ee/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Estonian"> Eesti keel</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/es/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Spanish"> Español</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ir/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Farsi-Persian"> فارسی</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/fr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="French"> Français</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ge/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Georgian"> ქართული</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/il/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Hebrew"> עברית</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/hi/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Hindi"> हिन्दी</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/hr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Croatian"> Hrvatski</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/is/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Icelandic"> Íslenska</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/it/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Italian"> Italiano</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/jp/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Japanese"> 日本語</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/lv/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Latvian"> Latviešu</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/nl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Dutch"> Nederlands</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/no/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Norwegian"> Norsk</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/pl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Polish"> Polski</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/pt/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Portuguese"> Português</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ro/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Romanian"> Română</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ru/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Russian"> Русский</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/rs/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Serbian"> Srpski</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/si/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Slovenian"> Slovenščina</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/fi/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Finnish"> Suomi</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/se/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Swedish"> Svenska</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/th/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Thai"> ภาษาไทย</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/tr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Turkish"> Türkçe</span>
+										</a>
+									</li>
+																	<li>
+										<a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional"
+										   href="http://www.marinetraffic.com/ua/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202">
+												<span
+													title="Ukranian"> Українська</span>
+										</a>
+									</li>
+														</div>
+					</ul>
+				</div>
+			</div>
+			<div class="mobile-visible">
+				<select style="width: auto" class="form-control auto_select">
+												<option selected="selected"> English</option>
+														<option value="/ar/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ar"> العربية</option>
+														<option value="/am/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=am"> հայերեն</option>
+														<option value="/bg/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=bg"> Български</option>
+														<option value="/cn/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=cn"> 中文</option>
+														<option value="/cz/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=cz"> Čeština</option>
+														<option value="/dk/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=dk"> Dansk</option>
+														<option value="/de/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=de"> Deutsch</option>
+														<option value="/gr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=gr"> Ελληνικά</option>
+														<option value="/ee/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ee"> Eesti keel</option>
+														<option value="/es/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=es"> Español</option>
+														<option value="/ir/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ir"> فارسی</option>
+														<option value="/fr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=fr"> Français</option>
+														<option value="/ge/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ge"> ქართული</option>
+														<option value="/il/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=il"> עברית</option>
+														<option value="/hi/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=hi"> हिन्दी</option>
+														<option value="/hr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=hr"> Hrvatski</option>
+														<option value="/is/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=is"> Íslenska</option>
+														<option value="/it/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=it"> Italiano</option>
+														<option value="/jp/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=jp"> 日本語</option>
+														<option value="/lv/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=lv"> Latviešu</option>
+														<option value="/nl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=nl"> Nederlands</option>
+														<option value="/no/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=no"> Norsk</option>
+														<option value="/pl/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=pl"> Polski</option>
+														<option value="/pt/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=pt"> Português</option>
+														<option value="/ro/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ro"> Română</option>
+														<option value="/ru/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ru"> Русский</option>
+														<option value="/rs/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=rs"> Srpski</option>
+														<option value="/si/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=si"> Slovenščina</option>
+														<option value="/fi/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=fi"> Suomi</option>
+														<option value="/se/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=se"> Svenska</option>
+														<option value="/th/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=th"> ภาษาไทย</option>
+														<option value="/tr/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=tr"> Türkçe</option>
+														<option value="/ua/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202?lang=ua"> Українська</option>
+											</select>
+			</div>
+		</div>
+	</div>
+	</div>
+
+	</div>
+
+	<div class="vertical-offset-15"></div>
+</div>
+
+<!-- Generic modal shell -->
+<div id="modal_shell" class="modal fade ajax" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+		</div>
+	</div>
+</div>
+
+<!-- Generic lg modal shell -->
+<div id="modal_lg_shell" class="modal fade ajax text-default" role="dialog" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+		</div>
+	</div>
+</div>
+
+<!-- Generic lg modal shell -->
+<div id="modal_md_shell" class="modal fade ajax text-default" role="dialog" aria-hidden="true">
+	<div class="modal-dialog modal-md">
+		<div class="modal-content">
+		</div>
+	</div>
+</div>
+
+<!-- Generic modal reset-form shell -->
+<div id="modal_reset_shell" class="modal fade form-reset ajax" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+		</div>
+	</div>
+</div></footer>
+
+<script type="text/javascript" src="//ditu.google.cn/maps/api/js?libraries=geometry,drawing,places&key=AIzaSyDer5qPNgUIqnhrYiunMgKT81mFtO4q2oA"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script><script type="text/javascript" src="/js/inc/adframe.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/TweenMax.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/plugins/TextPlugin.min.js"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highcharts/4.0.3/highcharts.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highcharts/4.0.3/highcharts-more.js"></script><script type="text/javascript" src="//cdn.marinetraffic.com/js/mt-core.js"></script><script type="text/javascript" src="//cdn.marinetraffic.com/js/js-data-detail-3.30.51.51c74e.js"></script><script type="text/javascript">
+//<![CDATA[
+
+    $(".pc_utc_data").hide();
+    $(".pc_my_time_data").hide();
+    $(".pc_diff_data").hide();
+    
+    $(".pc_diff").click(function(e){
+        e.preventDefault();
+        $(".pc_utc_data").hide();
+        $(".pc_my_time_data").hide();
+        $(".pc_local_data").hide();
+        $(".pc_diff").removeClass("btn-info").addClass("btn-default");
+        $(".pc_my_time").removeClass("btn-default").addClass("btn-info");
+        $(".pc_local").removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc").removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc_data, .pc_local_data .pc_my_time_data").hide();
+        var id = $(this).attr("id");
+        $("."+id+"_data").show();
+    })
+    
+    $(".pc_utc").click(function(e){
+        e.preventDefault();
+        $(".pc_diff_data").hide();
+        $(".pc_my_time_data").hide();
+        $(".pc_local_data").hide();
+        $(".pc_utc").removeClass("btn-info").addClass("btn-default");
+        $(".pc_my_time").removeClass("btn-default").addClass("btn-info");
+        $(".pc_local").removeClass("btn-default").addClass("btn-info");
+        $(".pc_diff").removeClass("btn-default").addClass("btn-info");
+        $(".pc_diff_data, .pc_local_data .pc_my_time_data").hide();
+        var id = $(this).attr("id");
+        $("."+id+"_data").show();
+    })
+    
+    $(".pc_local").click(function(e){
+        e.preventDefault();
+        $(".pc_diff_data").hide();
+        $(".pc_my_time_data").hide();
+        $(".pc_utc_data").hide();
+        $(".pc_local").removeClass("btn-info").addClass("btn-default");
+        $(".pc_my_time").removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc").removeClass("btn-default").addClass("btn-info");
+        $(".pc_diff").removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc_data, .pc_diff_data .pc_my_time_data").hide();
+        var id = $(this).attr("id");
+        $("."+id+"_data").show();
+    })
+    
+    $(".pc_my_time").click(function(e){
+        e.preventDefault();
+        $(".pc_diff_data").hide();
+        $(".pc_local_data").hide();
+        $(".pc_utc_data").hide();
+        $(".pc_my_time").removeClass("btn-info").addClass("btn-default");
+        $(".pc_local").removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc").removeClass("btn-default").addClass("btn-info");
+        $(".pc_diff").removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc_data, .pc_diff_data .pc_local_data").hide();
+        var id = $(this).attr("id");
+        $("."+id+"_data").show();
+    })
+    $(document).ready(function () {
+        $(".pc_local").trigger("click");
+    });
+
+
+    var ls_vessel  = {"ASSET_ID":1336912,"shipid":"1336912","SHIP_TYPE":3,"SHIPTYPE":3,"ANGLE":511,"SPEED":1,"TYPE":"Vessel","TYPE_ID":1,"desc":"Local Vessel [NL]","id":"\/en\/ais\/details\/ships\/shipid:1336912\/mmsi:244010235\/vessel:BOEI 2","URL":"\/en\/ais\/details\/ships\/shipid:1336912\/mmsi:244010235\/vessel:BOEI 2","value":"BOEI 2","label":"BOEI 2","source":"localStorage"} 
+
+
+    /*
+    SET GLOBAL OPTIONS FOR ALL CHARTS
+    **********************************/
+    Highcharts.setOptions({
+        /* CORE-4865
+        subtitle: {
+            text: document.ontouchstart === undefined ?
+                "Click and drag in the plot area to zoom in" :
+                "Drag your finger over the plot to zoom in"
+        },
+        */
+        tooltip: {
+            positioner: function () {
+                return {
+                    x: 10,
+                    y: 10
+                };
+            },
+            shared: true,
+            crosshairs: true
+        },
+        legend: {
+            enabled: true
+        },
+        chart: {
+            zoomType: "x",
+            spacingRight: 20,
+            spacingLeft: 0,
+            spacingBottom: 10,
+            height: 300
+        },
+        title: {
+            style: {
+                fontSize: "11px"
+            }
+        },
+        credits: {
+            enabled: false
+        }
+    });
+
+    $(document).ready(function() {
+        $.ajax({
+            url: '/' + $.mtdata.active_lang + '/ais/vessel_timeline/1336912',
+            dataType: "html"
+        }).success(function(data) {
+            $(".vessel_timeline").html(data);
+        });
+    });
+//]]>
+</script>
+</body>
+</html>
