@@ -29,16 +29,36 @@ var logFile *os.File
 // subject, body, recipient are all hards coded as well as the auth details
 func send_mail() {
 
-	log.Println("-I- sending alert through " + SMTP_SERVER)
+	log.Println("-I- sending boundaries alert through " + SMTP_SERVER)
 
 	body := "According to the most recent AIS info, the buoy is " +
 					strconv.FormatInt(MAX_DISTANCE_ALLOWED, 32) +
 					" meters away from its base location\r\n"
-	auth := smtp.PlainAuth("", "themo@univ.haifa.ac.il", "Passwd!!", SMTP_SERVER)
+	auth := smtp.PlainAuth("", "themo@univ.haifa.ac.il", "TexasA&M1", SMTP_SERVER)
 	to := []string{"imardix@univ.haifa.ac.il","sdahan3@univ.haifa.ac.il"}
 	// to := []string{"imardix@univ.haifa.ac.il"}
 	msg := []byte("To: Themo\r\n" +
 		"Subject: Alert: " + BUOY_NAME + " is out of boundaries\r\n" +
+		"\r\n" +
+		body)
+	err := smtp.SendMail(SMTP_SERVER + ":25", auth, "themo@univ.haifa.ac.il", to, msg)
+	if err != nil {
+		log.Fatal(err)
+	} else {
+		log.Println("Alert was sent successfully!")
+	}
+}
+
+func send_mail_no_report() {
+
+	log.Println("-I- sending no_report alert through " + SMTP_SERVER)
+
+	body := "No AIS info was recived during the last hour"
+	auth := smtp.PlainAuth("", "themo@univ.haifa.ac.il", "TexasA&M1", SMTP_SERVER)
+	to := []string{"imardix@univ.haifa.ac.il","sdahan3@univ.haifa.ac.il"}
+	// to := []string{"imardix@univ.haifa.ac.il"}
+	msg := []byte("To: Themo\r\n" +
+		"Subject: Alert: " + BUOY_NAME + " AIS info is missing\r\n" +
 		"\r\n" +
 		body)
 	err := smtp.SendMail(SMTP_SERVER + ":25", auth, "themo@univ.haifa.ac.il", to, msg)
@@ -147,9 +167,11 @@ func getUTMtuple(str_lat string, str_lon string) UTM.LatLon {
 func main() {
 
 	init_log(); 	defer logFile.Close()
+
 	coordinates, lastUpdate := scrape()
 	if lastUpdate == "" {
 		log.Fatal("When was the last update?")
+		send_mail_no_report()
 	}
 	if coordinates == "" {
 		log.Fatal("Can't find coordinates")

@@ -1,0 +1,11 @@
+2017/12/20 09:52:13 ------------------------------------------
+2017/12/20 09:52:13 -I- sending no_report alert through mr1.haifa.ac.il
+2017/12/20 09:52:13 Alert was sent successfully!
+2017/12/20 10:18:07 ------------------------------------------
+2017/12/20 10:18:07 Verifying AIS information for tabs225m09
+2017/12/20 10:18:07 Scraping: https://www.marinetraffic.com/en/ais/details/ships/shipid:1336912/mmsi:244010235/vessel:BOEI%202
+2017/12/20 10:18:08 extracting last location
+2017/12/20 10:18:08 extracting last update time
+2017/12/20 10:18:08 33.03499° / 34.94477°
+2017/12/20 10:18:08 last update: 37 minutes ago [Wed Dec 20 09:41:08 2017]
+2017/12/20 10:18:08 Distance: 8.872361 meters
